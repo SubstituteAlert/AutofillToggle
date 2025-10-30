@@ -30,7 +30,7 @@
   "commands": {
     "toggle-autofill": {
       "suggested_key": {
-        "default": "Alt+A"
+        "default": "Alt+Z"
       },
       "description": "Toggle Autofill on/off"
     }
